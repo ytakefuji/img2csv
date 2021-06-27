@@ -15,7 +15,7 @@ The width of the image file should be equal to the height.
 
 $ python imgresize.py size=128 sdir="./original" ddir="./resized" type="L"
 
-size (width=height), source directory=sdir, type (RGB or L:gray scale) 
-and destination directory=ddir must be given to imgresize.py
+size (width=height), source directory=sdir, destination directory=ddir, 
+and type (RGB or L:gray scale) must be given to imgresize.py
 
 
