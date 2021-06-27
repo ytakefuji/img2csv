@@ -1,7 +1,7 @@
 # img2csv
 
 In order to analyze individual evaluations using image data 
-who can provide reliable evaluations or who cannot, the following prcesses are needed:
+who can provide reliable evaluations or who cannot, the following processes are needed:
 
 1.All image files should be resized and converted to the same size of images.
 
