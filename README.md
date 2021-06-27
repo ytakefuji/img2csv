@@ -21,4 +21,6 @@ $ python imgresize.py size=128 sdir="./original" ddir="./resized" type="L"
 size (width=height), source directory=sdir, destination directory=ddir, 
 and type (RGB or L:gray scale) must be given to imgresize.py
 
+# img2csv
+
 
