@@ -7,6 +7,10 @@ who can provide reliable evaluations or who cannot, the following prcesses are n
 
 # imgresize.py for resizing image files to image files with the same width and height.
 
+imgresize.py is used to resize an image file to an image file of the same width and height.
+
 $ python imgresize.py size=128 sdir="./photo" ddir="./newphoto"
+
+size of width=height, source directory and destination directory must be given to imgresize.py
 
 
