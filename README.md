@@ -1,4 +1,4 @@
-# img2csv
+# imgresize and img2csv
 
 In order to analyze individual evaluations using image data 
 who can provide reliable evaluations or who cannot, the following processes are needed:
