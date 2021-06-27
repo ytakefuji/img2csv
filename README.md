@@ -13,7 +13,7 @@ imgresize.py is used to resize an image file to an image file of the same width 
 size determines the size of width or height. 
 The width of the image file should be equal to the height.
 
-$ python imgresize.py size=128 sdir="./photo" ddir="./newphoto"
+$ python imgresize.py size=128 sdir="./original" ddir="./resized"
 
 size (width=height), source directory=sdir, and destination directory=ddir 
 must be given to imgresize.py
