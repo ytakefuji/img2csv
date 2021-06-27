@@ -7,11 +7,14 @@ who can provide reliable evaluations or who cannot, the following processes are 
 
 2.For machine learning, resized image data should be converted to a single csv file.
 
-# imgresize.py for resizing image files to image files with the same width and height.
+# imgresize.py 
 
 imgresize.py is used to resize an image file to an image file of the same width and height.
-size determines the size of width or height. 
+"size" determines the size of width or height. 
 The width of the image file should be equal to the height.
+"sdir" is a source directory. 
+"ddir" is a distination directory.
+"type" is either gray scale "L" or "RGB" color.
 
 $ python imgresize.py size=128 sdir="./original" ddir="./resized" type="L"
 
